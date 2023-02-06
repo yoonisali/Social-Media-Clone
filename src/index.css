@@ -28,7 +28,7 @@ input {
   background-color: rgb(52, 126, 197);
   color: #fff;
   padding: 10px;
-  border: solid 3px black;
+  border: solid 3px gray;
   border-bottom: 0px;
   margin: 0;
   margin-left: 20px;
@@ -39,11 +39,21 @@ input {
   height: 100px;
   width: 220px;
   padding: 10px;
-  border: solid 3px black;
+  border: solid 3px gray;
   border-top: 0px;
   margin: 0;
   margin-left: 20px;
+}
 
+.boxthree {
+  height: 310px;
+  color: black;
+  width: 220px;
+  padding: 10px;
+  border: solid 3px gray;
+  margin: 0;
+  margin-left: 20px;
+  margin-top: 20px;
 }
 
 img {
